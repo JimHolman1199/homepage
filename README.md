@@ -2,9 +2,9 @@
 My very own personal website. Basically this is just a résumé.
 
 # Authors
-- Yurii Pryshliak - Initial work 
+Yurii Pryshliak - Initial work 
 
-  See also my other projects.
+  See also my other CV project.
   * https://jimholman1199.github.io/reactCV/
 
 # License
