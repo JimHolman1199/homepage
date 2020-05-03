@@ -1,8 +1,6 @@
 # Homepage
 My very own personal website. Basically this is just a résumé.
 
-🧙Hocus-pocus!
-
 # Authors
 Yurii Pryshliak - Initial work 
 
