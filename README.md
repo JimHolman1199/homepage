@@ -14,11 +14,19 @@ All demos online:
 
 2. `cd homepage`
 
-3. `serve`
+3. `npm install --global serve`
+
+4. `serve`
 
 ### Verify the installation
 
 * Open in browser: `localhost:5000` or `http://192.168.0.15:5000 `
+
+### Production
+
+1. `npm i`
+
+2. `npm test`
 
 # Authors
 Yurii Pryshliak - Initial work 
