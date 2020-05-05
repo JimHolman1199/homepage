@@ -2,11 +2,11 @@
 My very own personal website. Basically this is just a résumé.
 
 All demos online:
-AWS:
-    * prod: http://yuriipryshliak.com-production.s3-website.us-east-2.amazonaws.com/
-    * staging: http://yuriipryshliak.com-staging.s3-website.us-east-2.amazonaws.com/
-GitHub Pages: 
-    * prod: https://jimholman1199.github.io/homepage/
+   1. AWS:
+       - prod: http://yuriipryshliak.com-production.s3-website.us-east-2.amazonaws.com/
+       - staging: http://yuriipryshliak.com-staging.s3-website.us-east-2.amazonaws.com/
+   2. GitHub Pages: 
+       - prod: https://jimholman1199.github.io/homepage/
 
 # Start with **git**
 
