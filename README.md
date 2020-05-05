@@ -22,6 +22,12 @@ All demos online:
 
 * Open in browser: `localhost:5000` or `http://192.168.0.15:5000 `
 
+### Production
+
+1. `npm i`
+
+2. `npm test`
+
 # Authors
 Yurii Pryshliak - Initial work 
 

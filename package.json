@@ -1,0 +1,24 @@
+{
+  "name": "homepage",
+  "version": "13.3.3",
+  "description": "My very own personal website. Basically this is just a résumé.",
+  "main": "sw.js",
+  "dependencies": {
+    "stylelint": "^13.3.3",
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx stylelint \"**/*.css\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimHolman1199/homepage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimHolman1199/homepage/issues"
+  },
+  "homepage": "https://github.com/JimHolman1199/homepage#readme"
+}

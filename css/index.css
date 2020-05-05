@@ -1,4 +1,23 @@
-/*-----Main css-------*/
+/* -----Main css------- */
+
+.margin-right-10 {
+  margin-right: 10px;
+}
+
+button.btn-outline-success {
+  display: block;
+  border: 3px solid #28a745;
+}
+
+button.btn-outline-success:hover {
+  background-color: #0d694a;
+  border-color: #0d694a;
+}
+
+.btn-outline-success:active {
+  background-color: #0d694a !important;
+  border-color: #0d694a !important;
+}
 
 .tags.small {
   margin: 10px 0 0;
@@ -9,7 +28,14 @@
 }
 
 .nowrap {
-  border: 2px solid #8ff5cf;
+  color: #fff;
+  background-color: #28a745;
+  display: inline-block;
+  min-width: 50px;
+  min-height: 25px;
+  text-align: center;
+  margin: 5px;
+  padding: 5px 0;
 }
 
 .green-border {
@@ -17,7 +43,7 @@
   padding-left: 3px;
 }
 
-.time-icon:before {
+.time-icon::before {
   left: -14px;
   content: "⏱️";
   position: relative;
@@ -49,12 +75,6 @@ main {
   background: none;
 }
 
-.home video {
-  top: 0;
-  left: 0;
-  z-index: 1;
-}
-
 video {
   position: fixed;
   left: 0;
@@ -73,27 +93,46 @@ main:nth-last-child(3) {
 }
 
 @media only screen and (max-width: 767px) {
+  button.btn-outline-success {
+    margin: 10px auto;
+  }
+
   .contacts li {
-      min-height: 48px;
+    min-height: 48px;
   }
+
   .row > .ten.wide.column {
-      margin-right: 15px;
-      margin-left: 15px;
+    margin-right: 15px;
+    margin-left: 15px;
   }
+
   .row > .six.wide.column {
-      margin-right: 15px;
-      margin-left: 15px;
+    margin-right: 15px;
+    margin-left: 15px;
   }
+
   .avatar {
-      margin-top: 20px;
+    margin-top: 20px;
   }
 }
 
 @media only screen and (min-width: 768px) {
   div.row {
-      display: flex;
-      flex-wrap: nowrap;
+    display: flex;
+    flex-wrap: nowrap;
   }
 }
 
-/*-----End Main css-------*/
+@media only screen and (min-width: 992px) {
+  .thirteen > .grid {
+    min-width: 550px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .thirteen > .grid {
+    min-width: 700px;
+  }
+}
+
+/* -----End Main css------- */
