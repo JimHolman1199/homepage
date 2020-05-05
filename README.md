@@ -14,7 +14,9 @@ All demos online:
 
 2. `cd homepage`
 
-3. `serve`
+3. `npm install --global serve`
+
+4. `serve`
 
 ### Verify the installation
 
