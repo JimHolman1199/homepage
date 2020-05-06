@@ -4,12 +4,12 @@
   margin-right: 10px;
 }
 
-button.btn-outline-success {
+a.btn-outline-success {
   display: block;
   border: 3px solid #28a745;
 }
 
-button.btn-outline-success:hover {
+a.btn-outline-success:hover {
   background-color: #0d694a;
   border-color: #0d694a;
 }
