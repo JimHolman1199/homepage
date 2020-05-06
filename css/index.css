@@ -93,7 +93,8 @@ main:nth-last-child(3) {
 }
 
 @media only screen and (max-width: 767px) {
-  button.btn-outline-success {
+  a.btn-outline-success {
+    width: 150px;
     margin: 10px auto;
   }
 
