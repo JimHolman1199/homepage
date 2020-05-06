@@ -1,6 +1,8 @@
 # Homepage
 My very own personal website. Basically this is just a résumé.
 
+  * 🧙Hocus-pocus!
+
 All demos online:
    1. AWS:
        - prod: http://yuriipryshliak.com-production.s3-website.us-east-2.amazonaws.com/
